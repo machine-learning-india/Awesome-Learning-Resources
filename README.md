@@ -25,3 +25,13 @@ Ebooks : These books are downloadable. Keep Learning!
 * Hands on Machine Learning with Schikit Learn and Tensorflow
 
   https://bit.ly/3i4UojY
+  
+
+## Deep Learning
+
+* Introduction to Deep Learning
+
+  https://bit.ly/3070Zoa
+  
+* Neural Networks and Deep Learning
+  https://bit.ly/33UV8TX
