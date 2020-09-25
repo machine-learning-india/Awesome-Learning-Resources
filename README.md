@@ -6,7 +6,7 @@ This repository contains learning resources ranging from freely available ebooks
 ----------------------------------------------------------------------------------------------
 
 
-Ebooks : These books are downloadable. Keep Learning!
+*Ebooks* : These books are downloadable. Keep Learning!
 
 ## Machine Learning
 
