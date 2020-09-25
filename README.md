@@ -40,3 +40,4 @@ This repository contains learning resources ranging from freely available ebooks
 * Deep Learning Book
 
   https://bit.ly/2GaUSaV 
+    
