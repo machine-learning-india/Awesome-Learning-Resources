@@ -36,3 +36,7 @@ This repository contains learning resources ranging from freely available ebooks
 * Neural Networks and Deep Learning
 
   https://bit.ly/33UV8TX
+  
+* Deep Learning Book
+
+  https://bit.ly/2GaUSaV 
