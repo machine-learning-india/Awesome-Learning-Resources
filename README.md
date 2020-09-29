@@ -29,7 +29,7 @@ This repository contains learning resources ranging from freely available ebooks
 
 ## Deep Learning
 
-* Introduction to Deep Learning
+* [Deep Learning](http://www.deeplearningbook.org/) by Yoshua Bengio, Ian Goodfellow and Aaron Courville
 
   https://bit.ly/3070Zoa
   
