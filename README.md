@@ -30,14 +30,12 @@ This repository contains learning resources ranging from freely available ebooks
 ## Deep Learning
 
 * [Deep Learning](http://www.deeplearningbook.org/) by Yoshua Bengio, Ian Goodfellow and Aaron Courville
-
-  https://bit.ly/3070Zoa
   
-* Neural Networks and Deep Learning
-
-  https://bit.ly/33UV8TX
+* [Deep Learning in Neural Networks: An Overview](http://arxiv.org/pdf/1404.7828v4.pdf)
   
-* Deep Learning Book
+* [Dive into Deep Learning](https://d2l.ai/) - numpy based interactive Deep Learning book
 
-  https://bit.ly/2GaUSaV 
+* [Artificial intelligence and machine learning: Topic wise explanation](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/)
+
+* [Deep Learning](http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf) by Microsoft Research
     
